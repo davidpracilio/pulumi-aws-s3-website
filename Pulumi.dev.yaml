@@ -1,0 +1,5 @@
+config:
+  aws:region: us-east-1
+  pulumi-aws-s3-website:errorDocument: error.html
+  pulumi-aws-s3-website:indexDocument: index.html
+  pulumi-aws-s3-website:path: ./www
